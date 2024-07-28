@@ -1,0 +1,9 @@
+.App {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* Full viewport height for demonstration */
+    border: 1px solid black;
+    /* Just to visualize the parent */
+}
